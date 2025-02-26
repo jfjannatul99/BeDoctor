@@ -8,3 +8,10 @@ header
     rgba(209, 231, 253, 1) 100%
   );
 }
+#whyMe {
+  background-image: url(./Images/mask-doctor.webp);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
